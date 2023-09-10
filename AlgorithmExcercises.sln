@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciSequence", "Fibona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReverse", "StringReverse\StringReverse.csproj", "{ACF57584-A97D-4F7A-A77E-3C65205C30A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeDetection", "PalindromeDetection\PalindromeDetection.csproj", "{24AE4751-1470-4ABF-B3DA-1961712BE55D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{F1C3A85B-42D2-42FF-BC34-148C4DFDF97A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{ACF57584-A97D-4F7A-A77E-3C65205C30A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACF57584-A97D-4F7A-A77E-3C65205C30A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACF57584-A97D-4F7A-A77E-3C65205C30A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24AE4751-1470-4ABF-B3DA-1961712BE55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24AE4751-1470-4ABF-B3DA-1961712BE55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24AE4751-1470-4ABF-B3DA-1961712BE55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24AE4751-1470-4ABF-B3DA-1961712BE55D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C3A85B-42D2-42FF-BC34-148C4DFDF97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C3A85B-42D2-42FF-BC34-148C4DFDF97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C3A85B-42D2-42FF-BC34-148C4DFDF97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C3A85B-42D2-42FF-BC34-148C4DFDF97A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
