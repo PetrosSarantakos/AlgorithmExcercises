@@ -7,7 +7,7 @@ public class Factorial
         Console.WriteLine("Give me an int\n");
         string n = Console.ReadLine();
         var isInputValid = int.TryParse(n, out int num);
-        if (!isInputValid)
+        if (!isInputValid || num<=0)
             Console.WriteLine("Invalid input");
         else
         {

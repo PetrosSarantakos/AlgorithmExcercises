@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeDetection", "Pali
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{F1C3A85B-42D2-42FF-BC34-148C4DFDF97A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram", "Anagram\Anagram.csproj", "{93A6DB01-011C-4D0F-88F9-294ED1B2325F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F1C3A85B-42D2-42FF-BC34-148C4DFDF97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1C3A85B-42D2-42FF-BC34-148C4DFDF97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1C3A85B-42D2-42FF-BC34-148C4DFDF97A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A6DB01-011C-4D0F-88F9-294ED1B2325F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A6DB01-011C-4D0F-88F9-294ED1B2325F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A6DB01-011C-4D0F-88F9-294ED1B2325F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A6DB01-011C-4D0F-88F9-294ED1B2325F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
